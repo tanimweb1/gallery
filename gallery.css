@@ -1,0 +1,21 @@
+body {
+  background-color: aqua;
+}
+div {
+  display: inline;
+}
+.main{
+  margin-left: 70px;
+}
+.img {
+  width: 200px;
+  height: 300px;
+
+  border-radius: 15px;
+  padding: 5px;
+  margin: 2px;
+  align-items: center;
+}
+h1:hover {
+  background-color: rgb(255, 0, 0);
+}
